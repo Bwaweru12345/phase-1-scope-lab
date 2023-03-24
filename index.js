@@ -21,3 +21,5 @@ const leastFavoriteCustomer = 'Richie'
  }
 
  console.log(changeLeastFavoriteCustomer());
+
+//  End of my code 
